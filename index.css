@@ -1,0 +1,48 @@
+* {
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+.top-section {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.row1 {
+    margin: 0 auto;
+    margin-top: 3em;
+    text-align: center;
+}
+
+.row2 {
+    margin-top: 3em;
+}
+
+.row3 {
+    margin-top: 3em;
+}
+
+h1 {
+    color: white;
+    margin: 0 auto;
+}
+
+h2 {
+    color: white;
+}
+
+.sloby5 {
+    width: 300px;
+    height: 300px;
+}
+
+.beb_dance {
+    width: 300px;
+    height: 300px;
+}
