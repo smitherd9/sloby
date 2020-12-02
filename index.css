@@ -40,9 +40,20 @@ h2 {
 .sloby5 {
     width: 300px;
     height: 300px;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
+.sloby2 {
+    width: 300px;
+    height: 300px;
+    border: 1px solid white;
+    border-radius: 50%;
 }
 
 .beb_dance {
     width: 300px;
     height: 300px;
+    border: 1px solid white;
+    border-radius: 50%;
 }
