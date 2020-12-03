@@ -59,6 +59,11 @@ background: linear-gradient(to right, #3f4c6b, #606c88); /* W3C, IE 10+/ Edge, F
     margin-bottom: 3em;
 }
 
+.row6 {
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
 h1 {
     color: white;
     margin: 0 auto;
